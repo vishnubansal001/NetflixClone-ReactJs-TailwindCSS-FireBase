@@ -5,4 +5,4 @@
 <hr >
 
 <h1>Main Page:</h1>
-<img src={![Screenshot (61)](https://user-images.githubusercontent.com/101445306/214800734-2ed2784a-4481-48b3-8010-2be998ac61cb.png)} alt="main page">
+<img src={./public/Screenshot (61).png} alt="main page">
