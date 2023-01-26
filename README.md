@@ -3,6 +3,3 @@
 <br>
 <p>Here i presents a simple NETFLIX clone using React Js , Tailwind CSS , little bit of API And Firebase for the backend and userauthentication with account details and also showing the liked movies by us and we can also remove the saved or liked movies</p>
 <hr >
-
-<h1>Main Page:</h1>
-<img src={public/Screenshot (61).png} alt="main page">
