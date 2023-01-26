@@ -5,4 +5,4 @@
 <hr >
 
 <h1>Main Page:</h1>
-<img src={./public/Screenshot (61).png} alt="main page">
+<img src={public/Screenshot (61).png} alt="main page">
